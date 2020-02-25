@@ -1,0 +1,2 @@
+rm *.lst
+rm *.bin
